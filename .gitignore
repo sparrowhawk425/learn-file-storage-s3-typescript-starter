@@ -1,5 +1,6 @@
 *.db
 .env
+.vscode/
 assets/
 samples/
 node_modules/
